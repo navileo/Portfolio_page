@@ -58,7 +58,7 @@ A sleek, professional, and highly responsive personal portfolio website built wi
 Feel free to reach out for collaborations or inquiries!
 
 - **Email**: naveenkumar.v1324@gmail.com
-- **LinkedIn**: [Naveen Kumar V](https://www.linkedin.com/in/naveen-kumar-v-424a34221)
+- **LinkedIn**: [Naveen Kumar V](https://www.linkedin.com/in/naveen-kumar-v-424a34221/)
 - **GitHub**: [navileo](https://github.com/navileo)
 
 ---
