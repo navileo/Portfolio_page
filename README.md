@@ -2,7 +2,7 @@
 
 A sleek, professional, and highly responsive personal portfolio website built with a modern glassmorphism design system. This project showcases my skills, experience, and portfolio of projects in a visually engaging way.
 ## Live View
-**Portfolio**: https://navileo.github.io/Portfolio1/Portfolio
+**Portfolio**: [Portfolio](https://navileo.github.io/Portfolio1/Portfolio)
 ## 🚀 Features
 
 - **Dark/Light Mode Toggle**: Seamlessly switch between themes with persistence and smooth transitions.
